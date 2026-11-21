@@ -16,7 +16,9 @@ title: "TSP: il caso generale e il caso metrico"
 
     - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, il capitolo [«Problemi di routing»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/tsp/): la definizione e l'istanza di riferimento del TSP.
 
-    - Dal modulo <em>Algoritmi</em> ([pagina principale del modulo](https://fabiofurini.github.io/algoritmi/)): alberi ricoprenti di costo minimo (Kruskal), circuiti euleriani e le nozioni di NP-completezza e di tempo polinomiale.
+    - Dal modulo <em>Ottimizzazione su reti</em>, il capitolo [«Alberi ricoprenti di costo minimo»](https://fabiofurini.github.io/ottimizzazione-su-reti/alberi-e-cammini/minimum-spanning-trees/): l'algoritmo di Kruskal.
+
+    - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, il capitolo [«Ottimizzazione combinatoria: definizioni»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/combinatorial-optimization/cenni-di-complessita-computazionale/): tempo polinomiale, le classi P e NP, NP-completezza.
 
 !!! chiave "Obiettivi"
 

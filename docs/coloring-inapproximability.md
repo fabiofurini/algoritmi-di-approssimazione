@@ -16,7 +16,9 @@ title: "Colorazione dei vertici: limiti dell'approssimazione"
 
     - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, il capitolo [«Problemi di colorazione»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/coloring/): la definizione del VCP, il numero cromatico $\chi(G)$, il bound di clique $\omega(G)\le\chi(G)$ e il grafo di Petersen.
 
-    - Dal modulo <em>Algoritmi</em> ([pagina principale del modulo](https://fabiofurini.github.io/algoritmi/)): visita in ampiezza, tempo polinomiale e NP-completezza.
+    - Dal modulo <em>Ottimizzazione su reti</em>, il capitolo [«Grafi»](https://fabiofurini.github.io/ottimizzazione-su-reti/grafi/graphs/visita-di-un-grafo/): la visita in ampiezza.
+
+    - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, il capitolo [«Ottimizzazione combinatoria: definizioni»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/combinatorial-optimization/cenni-di-complessita-computazionale/): tempo polinomiale, le classi P e NP, NP-completezza.
 
 !!! chiave "Obiettivi"
 
