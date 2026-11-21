@@ -177,7 +177,7 @@ I capitoli, per famiglia di problemi come nel menu: ogni scheda dice il capitolo
 <!-- collana -->
 ## La collana
 
-Dieci corsi con la stessa impostazione: dispense online e in PDF, esercizi con le soluzioni, laboratorio interattivo e quiz di autovalutazione.
+Tutti i corsi della collana hanno la stessa impostazione: dispense online e in PDF, esercizi con le soluzioni, laboratorio interattivo e quiz di autovalutazione.
 
 <div class="grid cards" markdown>
 
@@ -209,9 +209,9 @@ Dieci corsi con la stessa impostazione: dispense online e in PDF, esercizi con l
 
     grafi, alberi ricoprenti, cammini minimi, flussi su reti, simplesso su reti e gestione dei progetti
 
--   :material-hexagon-multiple-outline: **[Ottimizzazione combinatoria](https://fabiofurini.github.io/ottimizzazione-combinatoria/)**
+-   :material-hexagon-multiple-outline: **[Problemi di ottimizzazione combinatoria](https://fabiofurini.github.io/ottimizzazione-combinatoria/)**
 
-    zaino, bin packing, colorazione, TSP, scheduling e lot sizing, risolti in tutti i modi
+    zaino, bin packing, colorazione, TSP, scheduling e lot sizing: i problemi, le formulazioni e gli algoritmi ad hoc
 
 -   :material-table-large: **[Programmazione dinamica](https://fabiofurini.github.io/programmazione-dinamica/)**
 
@@ -235,6 +235,8 @@ Dieci corsi con la stessa impostazione: dispense online e in PDF, esercizi con l
 
 </div>
 <!-- /collana -->
+
+---
 
 Materiale didattico di **[Fabio Furini](https://fabiofurini.github.io/)** —
 [DIAG](https://www.diag.uniroma1.it/), Sapienza Università di Roma.
