@@ -31,9 +31,9 @@ Prerequisiti: [Ottimizzazione combinatoria](https://fabiofurini.github.io/ottimi
 <!-- collana-app -->
 ## Provalo subito
 
-Il TSP metrico: l'albero ricoprente minimo, il circuito euleriano e le scorciatoie di double tree e di Christofides, con il rapporto rispetto all'ottimo.
+L'algoritmo di Christofides su dieci città: il giro trovato sopra il giro ottimo, con il rapporto che resta sotto la garanzia 3/2. Premi «Esegui» per rivedere albero ricoprente minimo, accoppiamento, circuito euleriano e scorciatoie, oppure passa al double tree.
 
-<div class="gi" data-grafico="oc-tsp-approx"></div>
+<div class="gi" data-grafico="oc-tsp-approx" data-vetrina="ch | 7 4 ; 14 8 ; 9 9 ; 19 0 ; 17 5 ; 17 10 ; 6 11 ; 3 4 ; 10 2 ; 20 12"></div>
 
 [:material-gesture-tap: Altre app nel laboratorio](laboratorio/index.md){ .md-button }
 <!-- /collana-app -->
