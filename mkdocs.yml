@@ -1,0 +1,179 @@
+# Modello di mkdocs.yml (italiano): lo usa genera_sito.py, che scrive mkdocs.yml.
+# Non modificare mkdocs.yml a mano.
+site_name: Algoritmi di approssimazione · Fabio Furini
+site_description: >-
+  Dispense sugli algoritmi di approssimazione: garanzie di prestazione e come si dimostrano, algoritmi, analisi del caso peggiore e istanze tight per lo zaino, il bin packing, il TSP metrico e lo scheduling su macchine parallele, schemi di approssimazione e limiti dell'approssimazione, con esercizi, slide, notebook Colab e app interattive.
+site_author: Fabio Furini
+site_url: https://fabiofurini.github.io/algoritmi-di-approssimazione/
+repo_url: https://github.com/fabiofurini/algoritmi-di-approssimazione
+copyright: >-
+  &copy; 2026 Fabio Furini — testi e figure con licenza
+  <a href="https://creativecommons.org/licenses/by/4.0/deed.it">CC BY 4.0</a>,
+  codice con licenza
+  <a href="https://github.com/fabiofurini/algoritmi-di-approssimazione/blob/main/LICENSE-CODE">MIT</a>
+
+theme:
+  name: material
+  language: it
+  icon:
+    logo: material/approximately-equal
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Tema scuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Tema chiaro
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - toc.follow
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+# le pagine delle singole app non stanno nel menu: il laboratorio è una voce sola
+not_in_nav: |
+  /laboratorio/*.md
+  !/laboratorio/index.md
+
+plugins:
+  - search:
+      lang: it
+
+extra:
+  social:
+    - icon: material/web
+      link: https://fabiofurini.github.io/
+      name: Fabio Furini — sito personale
+    - icon: material/school
+      link: https://www.diag.uniroma1.it/
+      name: DIAG — Sapienza Università di Roma
+    - icon: fontawesome/brands/github
+      link: https://github.com/fabiofurini
+      name: GitHub
+    - icon: material/chart-timeline-variant
+      link: https://fabiofurini.github.io/laboratorio-ricerca-operativa/
+      name: Laboratorio di Ricerca Operativa
+    - icon: material/vector-triangle
+      link: https://fabiofurini.github.io/programmazione-lineare/
+      name: Programmazione lineare
+    - icon: material/vector-polygon
+      link: https://fabiofurini.github.io/modellazione-mip/
+      name: Modellazione MIP
+    - icon: material/vector-polyline
+      link: https://fabiofurini.github.io/programmazione-lineare-intera/
+      name: Programmazione lineare intera
+    - icon: material/math-integral
+      link: https://fabiofurini.github.io/analisi-matematica-1/
+      name: Analisi Matematica 1
+    - icon: material/matrix
+      link: https://fabiofurini.github.io/algebra-lineare/
+      name: Algebra lineare
+    - icon: material/chart-bell-curve
+      link: https://fabiofurini.github.io/ottimizzazione-convessa/
+      name: Ottimizzazione convessa
+    - icon: material/code-braces
+      link: https://fabiofurini.github.io/algoritmi/
+      name: Algoritmi
+    - icon: material/hexagon-multiple-outline
+      link: https://fabiofurini.github.io/ottimizzazione-combinatoria/
+      name: Ottimizzazione combinatoria
+  alternate:
+    - name: Italiano
+      link: https://fabiofurini.github.io/algoritmi-di-approssimazione/
+      lang: it
+    - name: English
+      link: https://fabiofurini.github.io/approximation-algorithms/
+      lang: en
+
+extra_css:
+  - stylesheets/collana.css
+  - stylesheets/extra.css?v=a25c6f8414
+  - https://cdn.jsdelivr.net/npm/jsxgraph@1.10.1/distrib/jsxgraph.css
+  - stylesheets/interattivi.css?v=c51ac2286b
+  - stylesheets/quiz.css?v=9e3792b41c
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      title: In questa pagina
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_javascript:
+  - javascripts/cloudflare-analytics.js?v=bff73345a1
+  - javascripts/mathjax.js?v=2f2f0d6685
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
+  # grafici interattivi: JSXGraph, il motore, poi le ricette (gi-*.js, le aggiunge genera_sito.py)
+  - https://cdn.jsdelivr.net/npm/jsxgraph@1.10.1/distrib/jsxgraphcore.js
+  - javascripts/interattivi.js?v=2687ca69e3
+  - javascripts/gi-comune.js?v=40df75e3e5
+  - javascripts/gi-oc-0.js?v=ac7bf39282
+  - javascripts/gi-oc-b.js?v=f94d1a1e3f
+  - javascripts/gi-oc-c.js?v=e1eaa15ba1
+  - javascripts/gi-oc-d.js?v=e10e954f50
+  - javascripts/gi-oc-f.js?v=7b294d228d
+  - javascripts/quiz.js?v=be7fae2b85
+
+nav:
+  - Home: index.md
+  - Capitoli:
+      - "1. Principi": approximation.md
+      - "Problemi di zaino":
+          - "2. Zaino 0/1 (KP)": knapsack-approximation.md
+      - "Problemi di packing":
+          - "3. Bin packing (BPP)": bin-packing-approximation.md
+      - "Problemi di colorazione":
+          - "4. Colorazione dei vertici (VCP)": coloring-inapproximability.md
+      - "Problemi di clique":
+          - "5. Clique massima (MCP)": clique-inapproximability.md
+      - "Problemi di routing":
+          - "6. Commesso viaggiatore (TSP)": tsp-approximation.md
+      - "Problemi di scheduling":
+          - "7. Macchine parallele identiche (P||Cmax)": pcmax-approximation.md
+  - Esercizi:
+      - esercizi/index.md
+      - "1. Principi": esercizi/approximation.md
+      - "Problemi di zaino":
+          - "2. Zaino 0/1 (KP)": esercizi/knapsack-approximation.md
+      - "Problemi di packing":
+          - "3. Bin packing (BPP)": esercizi/bin-packing-approximation.md
+      - "Problemi di colorazione":
+          - "4. Colorazione dei vertici (VCP)": esercizi/coloring-inapproximability.md
+      - "Problemi di clique":
+          - "5. Clique massima (MCP)": esercizi/clique-inapproximability.md
+      - "Problemi di routing":
+          - "6. Commesso viaggiatore (TSP)": esercizi/tsp-approximation.md
+      - "Problemi di scheduling":
+          - "7. Macchine parallele identiche (P||Cmax)": esercizi/pcmax-approximation.md
+  - Quiz: autovalutazione.md
+  - Laboratorio: laboratorio/index.md
+  - Materiale:
+      - materiale.md
+      - Notebook Colab: notebook.md
+  - Indice: indice.md
