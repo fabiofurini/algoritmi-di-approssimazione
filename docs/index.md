@@ -236,8 +236,6 @@ Dieci corsi con la stessa impostazione: dispense online e in PDF, esercizi con l
 </div>
 <!-- /collana -->
 
----
-
 Materiale didattico di **[Fabio Furini](https://fabiofurini.github.io/)** —
 [DIAG](https://www.diag.uniroma1.it/), Sapienza Università di Roma.
 
