@@ -14,7 +14,7 @@ title: "Colorazione dei vertici: limiti dell'approssimazione"
 
     - Da questo modulo, il capitolo [«Principi degli algoritmi di approssimazione»](approximation.md): rapporto di prestazione, algoritmo di $\alpha$-approssimazione, garanzia di prestazione additiva.
 
-    - Dal modulo <em>Ottimizzazione combinatoria</em>, il capitolo [«Problemi di colorazione»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/coloring/): la definizione del VCP, il numero cromatico $\chi(G)$, il bound di clique $\omega(G)\le\chi(G)$ e il grafo di Petersen.
+    - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, il capitolo [«Problemi di colorazione»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/coloring/): la definizione del VCP, il numero cromatico $\chi(G)$, il bound di clique $\omega(G)\le\chi(G)$ e il grafo di Petersen.
 
     - Dal modulo <em>Algoritmi</em> ([pagina principale del modulo](https://fabiofurini.github.io/algoritmi/)): visita in ampiezza, tempo polinomiale e NP-completezza.
 

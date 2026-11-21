@@ -14,7 +14,7 @@ title: "Clique massima: limiti dell'approssimazione"
 
     - Da questo modulo, il capitolo [«Principi degli algoritmi di approssimazione»](approximation.md): rapporto di prestazione per un problema di massimo, algoritmo di $\alpha$-approssimazione, PTAS.
 
-    - Dal modulo <em>Ottimizzazione combinatoria</em>, il capitolo [«Problemi di clique»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/clique/): le definizioni del MCP e del MSSP, il numero di clique $\omega(G)$, il grafo complementare e $\omega(G)=\alpha(\overline{G})$.
+    - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, il capitolo [«Problemi di clique»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/clique/): le definizioni del MCP e del MSSP, il numero di clique $\omega(G)$, il grafo complementare e $\omega(G)=\alpha(\overline{G})$.
 
     - Da questo modulo, il capitolo [«Colorazione dei vertici: limiti dell'approssimazione»](coloring-inapproximability.md): i grafi planari e il bound $m\le 3n-6$.
 
@@ -166,7 +166,7 @@ Il problema di questo capitolo è il [problema della clique massima (MCP)](https
 
 ### 5.3.3 Il problema dell'insieme stabile massimo
 
-- Per $\omega(G)=\alpha(\overline{G})$ (capitolo [«Problemi di clique»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/clique/) del modulo <em>Ottimizzazione combinatoria</em>), un insieme stabile di $G$ è una clique di $\overline{G}$, che si costruisce in tempo $O(n^2)$ e ha lo stesso $n$.
+- Per $\omega(G)=\alpha(\overline{G})$ (capitolo [«Problemi di clique»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/clique/) del modulo <em>Problemi di ottimizzazione combinatoria</em>), un insieme stabile di $G$ è una clique di $\overline{G}$, che si costruisce in tempo $O(n^2)$ e ha lo stesso $n$.
 
 - Un algoritmo con rapporto $\rho(n)$ per uno dei due problemi, applicato al grafo complementare, ha lo stesso rapporto $\rho(n)$ per l'altro.
 

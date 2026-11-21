@@ -14,7 +14,7 @@ title: "Principi degli algoritmi di approssimazione"
 
     - Dal modulo <em>Algoritmi euristici</em>, il capitolo [«Algoritmi euristici: definizioni»](https://fabiofurini.github.io/algoritmi-euristici/heuristics/): algoritmi euristici, soluzioni ammissibili e valore della soluzione restituita da un algoritmo euristico.
 
-    - Dal modulo <em>Ottimizzazione combinatoria</em>, i capitoli sui [problemi di ottimizzazione combinatoria](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-scelti/): istanze, soluzioni ottime e valore ottimo $z(I)$ di un'istanza $I$.
+    - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, i capitoli sui [problemi di ottimizzazione combinatoria](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-scelti/): istanze, soluzioni ottime e valore ottimo $z(I)$ di un'istanza $I$.
 
 !!! chiave "Obiettivi"
 
@@ -214,7 +214,7 @@ title: "Principi degli algoritmi di approssimazione"
 
     Nell'ipotesi di ammissibilità, questa quantità è non negativa per ogni istanza $I$, ed è uguale a $0$ se e solo se $\mathscr{A}(I)=z(I)$.
 
-- L'errore relativo divide per il valore ottimo $z(I)$, e non va confuso con il gap del capitolo [«Problemi di ottimizzazione combinatoria»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/combinatorial-optimization/bound-primali-bound-duali-e-gap/) del modulo <em>Ottimizzazione combinatoria</em>, che divide per il lower bound e non è mai minore (capitolo [«Algoritmi euristici: definizioni»](https://fabiofurini.github.io/algoritmi-euristici/heuristics/) del modulo <em>Algoritmi euristici</em>).
+- L'errore relativo divide per il valore ottimo $z(I)$, e non va confuso con il gap del capitolo [«Ottimizzazione combinatoria: definizioni»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/combinatorial-optimization/bound-primali-bound-duali-e-gap/) del modulo <em>Problemi di ottimizzazione combinatoria</em>, che divide per il lower bound e non è mai minore (capitolo [«Algoritmi euristici: definizioni»](https://fabiofurini.github.io/algoritmi-euristici/heuristics/) del modulo <em>Algoritmi euristici</em>).
 
 <a id="box-7-def-as"></a>
 

@@ -14,7 +14,7 @@ title: "TSP: il caso generale e il caso metrico"
 
     - Da questo modulo, il capitolo [«Principi degli algoritmi di approssimazione»](approximation.md): rapporto di prestazione, garanzia di prestazione relativa, garanzia tight e rapporto di prestazione nel caso peggiore.
 
-    - Dal modulo <em>Ottimizzazione combinatoria</em>, il capitolo [«Problemi di routing»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/tsp/): la definizione e l'istanza di riferimento del TSP.
+    - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, il capitolo [«Problemi di routing»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/tsp/): la definizione e l'istanza di riferimento del TSP.
 
     - Dal modulo <em>Algoritmi</em> ([pagina principale del modulo](https://fabiofurini.github.io/algoritmi/)): alberi ricoprenti di costo minimo (Kruskal), circuiti euleriani e le nozioni di NP-completezza e di tempo polinomiale.
 

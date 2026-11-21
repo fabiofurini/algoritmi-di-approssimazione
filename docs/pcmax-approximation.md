@@ -14,7 +14,7 @@ title: "Approssimazione per P||Cmax"
 
     - Da questo modulo, il capitolo [«Principi degli algoritmi di approssimazione»](approximation.md): rapporto di prestazione, garanzia di prestazione relativa, garanzia tight e rapporto di prestazione nel caso peggiore.
 
-    - Dal modulo <em>Ottimizzazione combinatoria</em>, il capitolo [«Problemi di scheduling»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/pcmax/): la definizione e l'istanza di riferimento di $P\,||\,C_{\max}$, e il suo lower bound elementare.
+    - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, il capitolo [«Problemi di scheduling»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/pcmax/): la definizione e l'istanza di riferimento di $P\,||\,C_{\max}$, e il suo lower bound elementare.
 
     - Dal modulo <em>Algoritmi euristici</em>, il capitolo [«Euristiche costruttive»](https://fabiofurini.github.io/algoritmi-euristici/constructive-heuristics/scheduling-su-macchine-parallele-prima-i-lavori-piu-lunghi/): gli algoritmi $LIST$ e $LPT$ come regole costruttive.
 
@@ -44,7 +44,7 @@ Il problema di questo capitolo è il [problema di scheduling su macchine paralle
 
     per ogni istanza $I$, e il rapporto di prestazione nel caso peggiore è $r(\mathscr{A})=\sup_I \mathscr{A}(I)/z(I)$.
 
-- Usiamo il lower bound elementare del capitolo [«Problemi di scheduling»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/pcmax/) del modulo <em>Ottimizzazione combinatoria</em>:
+- Usiamo il lower bound elementare del capitolo [«Problemi di scheduling»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/pcmax/) del modulo <em>Problemi di ottimizzazione combinatoria</em>:
 
     \begin{equation*}
     \label{eq:pcmaxlb}

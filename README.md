@@ -4,6 +4,6 @@ Dispense sugli algoritmi di approssimazione: garanzie di prestazione e come si d
 
 **Sito: [fabiofurini.github.io/algoritmi-di-approssimazione](https://fabiofurini.github.io/algoritmi-di-approssimazione/)** — versione inglese: [fabiofurini.github.io/approximation-algorithms](https://fabiofurini.github.io/approximation-algorithms/).
 
-Prerequisiti: [Ottimizzazione combinatoria](https://fabiofurini.github.io/ottimizzazione-combinatoria/) (i problemi) e [Algoritmi euristici](https://fabiofurini.github.io/algoritmi-euristici/) (gli algoritmi che qui si analizzano).
+Prerequisiti: [Problemi di ottimizzazione combinatoria](https://fabiofurini.github.io/ottimizzazione-combinatoria/) (i problemi) e [Algoritmi euristici](https://fabiofurini.github.io/algoritmi-euristici/) (gli algoritmi che qui si analizzano).
 
 Autore: [Fabio Furini](https://fabiofurini.github.io/). Contenuti CC BY 4.0, codice MIT.

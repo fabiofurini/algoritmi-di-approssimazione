@@ -14,7 +14,7 @@ title: "Algoritmi di approssimazione per lo zaino"
 
     - Da questo modulo, il capitolo [«Principi degli algoritmi di approssimazione»](approximation.md): rapporto di prestazione, garanzie di prestazione relative e assolute, tightness, schemi di approssimazione, PTAS e FPTAS.
 
-    - Dal modulo <em>Ottimizzazione combinatoria</em>, i capitoli [«Problemi di zaino»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/knapsack/il-problema-dello-zaino-0-1/) e [«Formulazioni dei problemi di zaino»](https://fabiofurini.github.io/ottimizzazione-combinatoria/formulazioni/knapsack-formulations/un-modello-pli-per-il-problema-dello-zaino-0-1/): il KP, il rilassamento lineare $\mathrm{LP}_{\mathrm{KP}}$ e il bound di Dantzig, che usa l'oggetto critico.
+    - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, i capitoli [«Problemi di zaino»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/knapsack/il-problema-dello-zaino-0-1/) e [«Formulazioni dei problemi di zaino»](https://fabiofurini.github.io/ottimizzazione-combinatoria/formulazioni/knapsack-formulations/un-modello-pli-per-il-problema-dello-zaino-0-1/): il KP, il rilassamento lineare $\mathrm{LP}_{\mathrm{KP}}$ e il bound di Dantzig, che usa l'oggetto critico.
 
     - Dal modulo <em>Algoritmi euristici</em>, il capitolo [«Euristiche costruttive»](https://fabiofurini.github.io/algoritmi-euristici/constructive-heuristics/il-problema-dello-zaino-0-1-quale-ordinamento/): l'algoritmo greedy.
 

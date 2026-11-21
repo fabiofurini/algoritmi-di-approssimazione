@@ -14,7 +14,7 @@ title: "Algoritmi di approssimazione per il bin packing"
 
     - Da questo modulo, il capitolo [«Principi degli algoritmi di approssimazione»](approximation.md): rapporto di prestazione, garanzia di prestazione relativa, garanzia tight e rapporto di prestazione nel caso peggiore $r(\mathscr{A})$.
 
-    - Dal modulo <em>Ottimizzazione combinatoria</em>, il capitolo [«Problemi di packing»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/bin-packing/il-problema-del-bin-packing/): il BPP, le sue istanze e il lower bound di conteggio $\left\lceil \frac{\sum_{i\in\mathscr{I}} w_i}{c} \right\rceil$ sul valore ottimo.
+    - Dal modulo <em>Problemi di ottimizzazione combinatoria</em>, il capitolo [«Problemi di packing»](https://fabiofurini.github.io/ottimizzazione-combinatoria/problemi-di-ottimizzazione-combinatoria/bin-packing/il-problema-del-bin-packing/): il BPP, le sue istanze e il lower bound di conteggio $\left\lceil \frac{\sum_{i\in\mathscr{I}} w_i}{c} \right\rceil$ sul valore ottimo.
 
     - Dal modulo <em>Algoritmi euristici</em>, il capitolo [«Euristiche costruttive»](https://fabiofurini.github.io/algoritmi-euristici/constructive-heuristics/il-problema-del-bin-packing-prima-ordinare-poi-riempire/): algoritmi euristici che costruiscono una soluzione un oggetto alla volta.
 

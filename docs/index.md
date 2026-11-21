@@ -18,7 +18,7 @@ associato al [DIAG](https://www.diag.uniroma1.it/), Sapienza Università di Roma
 
 **Le dispense del corso, online**: che cosa garantisce un algoritmo di approssimazione e come lo si dimostra; algoritmi, analisi del caso peggiore e istanze tight per lo zaino, il bin packing, il TSP metrico e lo scheduling su macchine parallele; schemi di approssimazione; i limiti dell'approssimazione per la colorazione dei vertici, la clique massima e il TSP generale. Con definizioni, risultati con dimostrazione, esempi svolti, esercizi con le soluzioni, notebook Colab e app interattive.
 
-Prerequisiti: [Ottimizzazione combinatoria](https://fabiofurini.github.io/ottimizzazione-combinatoria/) per i problemi e [Algoritmi euristici](https://fabiofurini.github.io/algoritmi-euristici/) per gli algoritmi che qui si analizzano (greedy, First Fit, LPT, nearest neighbour…).
+Prerequisiti: [Problemi di ottimizzazione combinatoria](https://fabiofurini.github.io/ottimizzazione-combinatoria/) per i problemi e [Algoritmi euristici](https://fabiofurini.github.io/algoritmi-euristici/) per gli algoritmi che qui si analizzano (greedy, First Fit, LPT, nearest neighbour…).
 
 [Comincia :material-arrow-right:](approximation.md){ .md-button .md-button--primary }
 [:material-pencil: Esercizi](esercizi/index.md){ .md-button }
@@ -235,8 +235,6 @@ Tutti i corsi della collana hanno la stessa impostazione: dispense online e in P
 
 </div>
 <!-- /collana -->
-
----
 
 Materiale didattico di **[Fabio Furini](https://fabiofurini.github.io/)** —
 [DIAG](https://www.diag.uniroma1.it/), Sapienza Università di Roma.
