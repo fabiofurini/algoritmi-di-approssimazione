@@ -213,6 +213,10 @@ Dieci corsi con la stessa impostazione: dispense online e in PDF, esercizi con l
 
     zaino, bin packing, colorazione, TSP, scheduling e lot sizing, risolti in tutti i modi
 
+-   :material-map-marker-path: **[Algoritmi euristici](https://fabiofurini.github.io/algoritmi-euristici/)**
+
+    euristiche costruttive, ricerca locale, metaeuristiche ed euristiche MIP per i problemi di ottimizzazione combinatoria
+
 -   :material-approximately-equal: **Algoritmi di approssimazione** · *questo corso*
 
     garanzie di prestazione, schemi di approssimazione e limiti dell'approssimazione per i problemi combinatori
@@ -227,6 +231,8 @@ Dieci corsi con la stessa impostazione: dispense online e in PDF, esercizi con l
 
 </div>
 <!-- /collana -->
+
+---
 
 Materiale didattico di **[Fabio Furini](https://fabiofurini.github.io/)** —
 [DIAG](https://www.diag.uniroma1.it/), Sapienza Università di Roma.
