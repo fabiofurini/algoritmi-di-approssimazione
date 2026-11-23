@@ -6,7 +6,7 @@ title: "Algoritmi di approssimazione per il bin packing"
 
 <div class="info-capitolo" markdown>
 
-**Problemi di packing · Capitolo 3** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide](pdf/slide-bin-packing-approximation.pdf) · [:material-pencil: Esercizi: Bin packing (BPP)](esercizi/bin-packing-approximation.md) · [:material-gesture-tap: App: Istanze tight](laboratorio/istanze-tight.md)
+**Parte 2 · Problemi di packing · Capitolo 3** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide](pdf/slide-bin-packing-approximation.pdf) · [:material-pencil: Esercizi: Bin packing (BPP)](esercizi/bin-packing-approximation.md) · [:material-gesture-tap: App: Istanze tight](laboratorio/istanze-tight.md)
 
 </div>
 

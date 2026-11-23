@@ -6,7 +6,7 @@ title: "Algoritmi di approssimazione per lo zaino"
 
 <div class="info-capitolo" markdown>
 
-**Problemi di zaino · Capitolo 2** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide (1/2)](pdf/slide-knapsack-approximation-1.pdf) · [:material-presentation: Slide (2/2)](pdf/slide-knapsack-approximation-2.pdf) · [:material-pencil: Esercizi: Zaino 0/1 (KP)](esercizi/knapsack-approximation.md) · [:material-gesture-tap: App: Zaino 0/1: greedy, Ext-Greedy, H² e FPTAS](laboratorio/zaino-approssimazione.md) · [:material-gesture-tap: App: Istanze tight](laboratorio/istanze-tight.md)
+**Parte 2 · Problemi di packing · Capitolo 2** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide (1/2)](pdf/slide-knapsack-approximation-1.pdf) · [:material-presentation: Slide (2/2)](pdf/slide-knapsack-approximation-2.pdf) · [:material-pencil: Esercizi: Zaino 0/1 (KP)](esercizi/knapsack-approximation.md) · [:material-gesture-tap: App: Zaino 0/1: greedy, Ext-Greedy, H² e FPTAS](laboratorio/zaino-approssimazione.md) · [:material-gesture-tap: App: Istanze tight](laboratorio/istanze-tight.md)
 
 </div>
 

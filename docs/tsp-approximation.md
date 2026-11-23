@@ -6,7 +6,7 @@ title: "TSP: il caso generale e il caso metrico"
 
 <div class="info-capitolo" markdown>
 
-**Problemi di routing · Capitolo 6** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide](pdf/slide-tsp-approximation.pdf) · [:material-pencil: Esercizi: Commesso viaggiatore (TSP)](esercizi/tsp-approximation.md) · [:material-gesture-tap: App: TSP metrico: double tree e Christofides](laboratorio/tsp-metrico-double-tree-christofides.md)
+**Parte 4 · Routing e scheduling · Capitolo 6** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide](pdf/slide-tsp-approximation.pdf) · [:material-pencil: Esercizi: Commesso viaggiatore (TSP)](esercizi/tsp-approximation.md) · [:material-gesture-tap: App: TSP metrico: double tree e Christofides](laboratorio/tsp-metrico-double-tree-christofides.md)
 
 </div>
 

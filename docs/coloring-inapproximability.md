@@ -6,7 +6,7 @@ title: "Colorazione dei vertici: limiti dell'approssimazione"
 
 <div class="info-capitolo" markdown>
 
-**Problemi di colorazione · Capitolo 4** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide](pdf/slide-coloring-inapproximability.pdf) · [:material-pencil: Esercizi: Colorazione dei vertici (VCP)](esercizi/coloring-inapproximability.md)
+**Parte 3 · Limiti dell'approssimazione · Capitolo 4** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide](pdf/slide-coloring-inapproximability.pdf) · [:material-pencil: Esercizi: Colorazione dei vertici (VCP)](esercizi/coloring-inapproximability.md)
 
 </div>
 

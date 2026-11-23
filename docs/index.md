@@ -43,79 +43,49 @@ L'algoritmo di Christofides su dieci città: il giro trovato sopra il giro ottim
 
 ## Le parti del corso
 
-I capitoli, per famiglia di problemi come nel menu: ogni scheda dice il capitolo della dispensa.
+Le stesse voci del menu: ogni scheda dice a quale parte e a quali capitoli della dispensa corrisponde.
 
 <div class="grid cards" markdown>
 
--   :material-approximately-equal: **1. Principi degli algoritmi di approssimazione**
+-   :material-lightbulb-on-outline: **Principi**
 
     ---
 
-    *Principi*
+    *Parte 1 · Capitolo 1*
 
-    Algoritmi di approssimazione · Schemi di approssimazione
+    Principi
 
-    [:octicons-arrow-right-24: Leggi il capitolo](approximation.md) · [Esercizi](esercizi/approximation.md)
+    [:octicons-arrow-right-24: I capitoli](principi.md)
 
--   :material-approximately-equal: **2. Algoritmi di approssimazione per lo zaino**
-
-    ---
-
-    *Problemi di zaino*
-
-    Notazione · Oggetto critico e capacità residua · L'algoritmo greedy · L'algoritmo Ext-Greedy
-
-    [:octicons-arrow-right-24: Leggi il capitolo](knapsack-approximation.md) · [Esercizi](esercizi/knapsack-approximation.md)
-
--   :material-approximately-equal: **3. Algoritmi di approssimazione per il bin packing**
+-   :material-package-variant-closed: **Problemi di packing**
 
     ---
 
-    *Problemi di packing*
+    *Parte 2 · Capitoli 2–3*
 
-    Notazione · Next Fit · La classe Any Fit · Proprietà di riempimento a metà
+    Zaino 0/1 (KP) · Bin packing (BPP)
 
-    [:octicons-arrow-right-24: Leggi il capitolo](bin-packing-approximation.md) · [Esercizi](esercizi/bin-packing-approximation.md)
+    [:octicons-arrow-right-24: I capitoli](problemi-di-packing.md)
 
--   :material-approximately-equal: **4. Colorazione dei vertici: limiti dell'approssimazione**
-
-    ---
-
-    *Problemi di colorazione*
-
-    Notazione · Il VCP non è approssimabile · Casi particolari · Esempi
-
-    [:octicons-arrow-right-24: Leggi il capitolo](coloring-inapproximability.md) · [Esercizi](esercizi/coloring-inapproximability.md)
-
--   :material-approximately-equal: **5. Clique massima: limiti dell'approssimazione**
+-   :material-close-octagon-outline: **Limiti dell'approssimazione**
 
     ---
 
-    *Problemi di clique*
+    *Parte 3 · Capitoli 4–5*
 
-    Notazione · Il MCP non è approssimabile · Casi particolari · Esempio
+    Colorazione dei vertici (VCP) · Clique massima (MCP)
 
-    [:octicons-arrow-right-24: Leggi il capitolo](clique-inapproximability.md) · [Esercizi](esercizi/clique-inapproximability.md)
+    [:octicons-arrow-right-24: I capitoli](limiti-dell-approssimazione.md)
 
--   :material-approximately-equal: **6. TSP: il caso generale e il caso metrico**
-
-    ---
-
-    *Problemi di routing*
-
-    Il TSP generale non è approssimabile · Un caso particolare: il TSP metrico · L'algoritmo del doppio albero e l'algoritmo di Christofides · Proprietà strutturali
-
-    [:octicons-arrow-right-24: Leggi il capitolo](tsp-approximation.md) · [Esercizi](esercizi/tsp-approximation.md)
-
--   :material-approximately-equal: **7. Approssimazione per P||Cmax**
+-   :material-map-marker-path: **Routing e scheduling**
 
     ---
 
-    *Problemi di scheduling*
+    *Parte 4 · Capitoli 6–7*
 
-    Notazione · Gli algoritmi $LIST$ e $LPT$ · Una proprietà del list scheduling · Garanzie di prestazione
+    Commesso viaggiatore (TSP) · Macchine parallele identiche (P||Cmax)
 
-    [:octicons-arrow-right-24: Leggi il capitolo](pcmax-approximation.md) · [Esercizi](esercizi/pcmax-approximation.md)
+    [:octicons-arrow-right-24: I capitoli](routing-e-scheduling.md)
 
 </div>
 

@@ -6,7 +6,7 @@ title: "Approssimazione per P||Cmax"
 
 <div class="info-capitolo" markdown>
 
-**Problemi di scheduling · Capitolo 7** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide](pdf/slide-pcmax-approximation.pdf) · [:material-pencil: Esercizi: Macchine parallele identiche (P||Cmax)](esercizi/pcmax-approximation.md) · [:material-gesture-tap: App: Istanze tight](laboratorio/istanze-tight.md)
+**Parte 4 · Routing e scheduling · Capitolo 7** · [:material-file-pdf-box: Dispensa, volume 1 (PDF)](pdf/dispensa-1-algoritmi-di-approssimazione.pdf) · [:material-presentation: Slide](pdf/slide-pcmax-approximation.pdf) · [:material-pencil: Esercizi: Macchine parallele identiche (P||Cmax)](esercizi/pcmax-approximation.md) · [:material-gesture-tap: App: Istanze tight](laboratorio/istanze-tight.md)
 
 </div>
 
